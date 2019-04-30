@@ -2484,6 +2484,7 @@ input, select, textarea {
 
 			.image.main img {
 				width: 100%;
+				border-radius: 0.5%;
 			}
 
 			.image.main:first-child {
